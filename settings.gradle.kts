@@ -26,3 +26,4 @@ rootProject.name = "Albatros"
 include(":app")
 include(":feature")
 include(":core")
+include(":core:designsystem")
