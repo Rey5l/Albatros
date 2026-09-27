@@ -1,4 +1,4 @@
-package com.reysl.albatros.ui.theme
+package com.reysl.designsystem.theme.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
